@@ -1,0 +1,4 @@
+
+{"dd":{"service":"codenode_datadog","span_id":"2996999278886207881","trace_id":"6184272434193523842","version":"1.0.0"},"level":"info","message":"Request correto"}
+{"dd":{"service":"codenode_datadog","span_id":"87937481086627470","trace_id":"3019280618320943486","version":"1.0.0"},"level":"info","message":"Request correto"}
+{"dd":{"service":"codenode_datadog","span_id":"6762773447939436570","trace_id":"1068283539430008928","version":"1.0.0"},"level":"info","message":"Request correto"}
